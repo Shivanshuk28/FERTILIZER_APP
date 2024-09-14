@@ -21,5 +21,5 @@ To run the Fertilizer App, you'll need:
 #### For Web App:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fertilizer-app.git
+   git clone https://github.com/Shivanshuk28/FERTILIZER_APP.git
    cd fertilizer-app
